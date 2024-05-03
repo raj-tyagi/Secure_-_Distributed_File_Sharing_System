@@ -12,8 +12,6 @@ Secure - Distributed File Sharing System is a prototype model for a secure file 
 
 - **User-friendly Interface**: Provides a simple command-line interface for users to upload, download, list files, view encrypted data, and remove files from the server.
 
-## Usage
-
 ### Prerequisites
 
 - Python 3.x
