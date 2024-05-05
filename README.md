@@ -65,3 +65,12 @@ This project is a prototype model and does not implement actual client-server so
 ## License
 
 This project is licensed under the [MIT License](LICENSE). 
+
+
+
+## Contact
+
+For any inquiries or feedback, please contact the project maintainer:
+
+https://www.linkedin.com/in/raj-tyagi-83765b21b/
+
